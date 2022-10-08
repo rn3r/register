@@ -1,0 +1,11 @@
+# You need to provide details about yourself that we can use to contact you.
+[user]
+username = "DaInfLoop"
+# You have to have one of these.
+email = "mail@dainfloop.is-a.dev"
+discord = "DISCORD"
+
+[records]
+# Your site's records, i.e.
+CNAME = "a13b0a44-b246-43e6-b57e-e4d10c71d902.id.repl.co"
+TXT = "replit-verify=a13b0a44-b246-43e6-b57e-e4d10c71d902"
