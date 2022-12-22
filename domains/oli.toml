@@ -1,0 +1,11 @@
+# You need to provide details about yourself that we can use to contact you.
+[user]
+username = "Qyful"
+# You have to have one of these.
+email = "info.paradoxentertainment@gmail.com"
+discord = "Qyful#1800"
+
+[records]
+# Your site's records, i.e.
+CNAME = "7aa04fdf-0537-48bf-949b-46c49fae0f5c.id.repl.co"
+TXT = "replit-verify=7aa04fdf-0537-48bf-949b-46c49fae0f5c"
