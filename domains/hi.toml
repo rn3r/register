@@ -1,0 +1,11 @@
+# You need to provide details about yourself that we can use to contact you.
+[user]
+username = ""
+# You have to have one of these.
+email = ""
+discord = "sc#0001"
+
+[records]
+# Your site's records, i.e.
+CNAME = "48d78c43-5661-4867-8b56-c408bf54ed5b.id.repl.co"
+TXT = "replit-verify=48d78c43-5661-4867-8b56-c408bf54ed5b"
